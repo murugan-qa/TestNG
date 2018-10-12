@@ -1,0 +1,8 @@
+
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="testNG_Package.TestNG_Class"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

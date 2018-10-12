@@ -1,0 +1,7 @@
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="testNG_Package.Randomtime"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
